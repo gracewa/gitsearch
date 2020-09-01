@@ -2,3 +2,16 @@ a i{
   font-size:60px;
   color:purple;
 }
+
+nav{
+  text-align: left;
+}
+nav ul {
+  list-style: none;
+  text-align: left;
+}
+
+nav ul li {
+  float: right;
+  margin-left: 20px;
+}
