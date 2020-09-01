@@ -3,15 +3,16 @@ a i{
   color:purple;
 }
 
-nav{
-  text-align: left;
-}
+
 nav ul {
   list-style: none;
   text-align: left;
+  color: purple;
+
 }
 
 nav ul li {
-  float: right;
+  float: left;
   margin-left: 20px;
 }
+
